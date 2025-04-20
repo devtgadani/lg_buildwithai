@@ -3,8 +3,7 @@ import 'package:google_generative_ai/google_generative_ai.dart';
 import 'package:mini/quiz_question.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-
-const apiKey = 'AIzaSyBAFa_HJpK2r0NVHsMLskYShRYqHSEXAkA'; // Make sure to assign your actual API key
+// Make sure to assign your actual API key
 class GeminiI {
    GenerativeModel? model;
   

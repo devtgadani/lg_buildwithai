@@ -4,7 +4,7 @@
   class VoiceAssistant {
     final _model = GenerativeModel(
       model: 'gemini-1.5-pro',
-      apiKey: 'AIzaSyBAFa_HJpK2r0NVHsMLskYShRYqHSEXAkA',
+      apiKey: 'apikey',
     );
 
     final _tts = FlutterTts();
